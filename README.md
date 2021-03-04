@@ -1,4 +1,4 @@
-# miniprojectpranjal.blogcpot.com
+# thetrappedman.blogcpot.com
 only backups of my blogs
 
 old name of theme file :-
